@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">Cal</string>
+    <string name="String">+</string>
+    <string name="String_1">-</string>
+    <string name="String_2">*</string>
+    <string name="String_3">/</string>
+    <string name="String_4">Number_1</string>
+    <string name="String_5">Number_2</string>
+    <string name="String_6">Result</string>
+
+</resources>
